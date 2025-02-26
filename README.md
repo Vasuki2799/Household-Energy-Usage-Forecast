@@ -66,38 +66,9 @@ This application is built using **Streamlit** for the interactive dashboard and 
 
 ---
 
-## 💻 **Installation & Setup**
-To run this project locally, follow these steps:
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-github-username/household-energy-forecast.git
-cd household-energy-forecast
-```
-
-### **2️⃣ Create a Virtual Environment (Optional)**
-```bash
-python -m venv .venv
-source .venv/bin/activate   # For Mac/Linux
-# OR
-.venv\Scripts\activate      # For Windows
-```
-
-### **3️⃣ Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **4️⃣ Run the Streamlit App**
-```bash
-streamlit run household_energy.py
-```
-
----
-
 ## 📽️ **Demo Video & 👤 Author Details**
 **🎥 Demo Video:** [Watch Here](#) *(Replace with actual video link)*  
-**👨‍💻 Author:** Vasuki Arul  
+**👨‍💻 Author:** VASUKI ARUL  
 **🔗 LinkedIn:** [Vasuki Arul](https://www.linkedin.com/in/vasuki27/)  
 **📅 Batch Code:** DS-C-WD-E-B29  
 
