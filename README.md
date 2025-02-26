@@ -67,7 +67,7 @@ This application is built using **Streamlit** for the interactive dashboard and 
 ---
 
 ## 📽️ **Demo Video & 👤 Author Details**
-**🎥 Demo Video:** [Watch Here](#) *(Replace with actual video link)*  
+**🎥 Demo Video:** https://www.linkedin.com/posts/vasuki27_machinelearning-datascience-ai-activity-7300528832837545987-6jC1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM  
 **👨‍💻 Author:** VASUKI ARUL  
 **🔗 LinkedIn:** [Vasuki Arul](https://www.linkedin.com/in/vasuki27/)  
 **📅 Batch Code:** DS-C-WD-E-B29  
